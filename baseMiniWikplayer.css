@@ -57,7 +57,7 @@
 #player #volumeSlider{ width:14px; background:url(sizerAndVol.png); }
 
 #playlist,#playlist .module,#playlist h3{ border-color:#2f3de1; color:#09116b; }
-#playlist h3{ background:url(bar.png); background-repeat: repeat-x !important; color:#FFF;font-family: Consolas,Consolas; font-size: 11px;line-height: 18px; }
+#playlist h3{ background:url(bar.png); background-repeat: repeat-x !important; color:#FFF;font-family: Consolas; font-size: 11px;line-height: 18px; }
 #playlist .even{background-color:#FFF;}
 #playlist .odd{ background-color:#c8ccff;}
 #playlist .focus{ background-color:#0a1488; color:#FFF;}
