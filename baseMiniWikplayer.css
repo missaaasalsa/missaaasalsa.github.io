@@ -11,7 +11,7 @@
 #player #play,#player #pause{ left:32px; }
 #player #previous{ left:8px; }
 #player #jp-title{ left:115px; width:110px;}
-#player #title{ left:115px;width:110px;cursor: pointer;white-space: nowrap; text-overflow: ellipsis;  overflow: hidden; }
+#player #title{ left:115px;width:110px;white-space: nowrap; text-overflow: ellipsis;  overflow: hidden; }
 #player #tooltip{ right:118px; }
 #player #timer{ right:142px;display:none;  }
 #player #list{ right:5px; }
@@ -50,8 +50,8 @@
 
 #player #seeker{ right:316px; display:none;}
 #player #seekerBase{ border-color:#084670; }
-#player #seekerBuffered{ background-color:#81a1e9; }
-#player #seekerSliderBase{ background-color:#084670; }
+#player #seekerBuffered{ background-color:#66000000; }
+#player #seekerSliderBase{ background-color:##66000000; }
 
 #player #volume{ width:70px; right:33px; }
 #player #volumeSlider{ width:14px; background:url(sizerAndVol.png); }
