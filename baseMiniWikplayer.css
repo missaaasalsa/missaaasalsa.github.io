@@ -3,7 +3,7 @@
 #player #miniBaseCenter{width:300px; height:25px; left:30px;z-index:0; position:absolute; background:url(sizerAndVol.png); background-position: bottom !important; background-repeat: repeat-x !important;}
 
 #player,#player a{ color:#09116b; }
-#player .mainImage{ background:url(main.png); }
+#player .mainImage{ background:url(main.gif); }
 
 #player #baseLeft{ width:188px; }
 #player #baseRight{ width:145px;}
