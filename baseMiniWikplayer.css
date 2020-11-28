@@ -1,6 +1,6 @@
 /* ORIGINAL CODE BY WIKIPLAYER; I SIMPLY EDITED IMAGES/MODIFIED OTHER ELEMENTS */
 #playerW{width:450px;right:50px !important;;left:auto !important;}
-#player #miniBaseCenter{width:300px; height:25px; left:30px;z-index:0; position:absolute; background:url(sizerAndVol.png); background-position: bottom !important; background-repeat: repeat-x !important;}
+#player #miniBaseCenter{width:300px; height:25px; left:30px;z-index:0; position:absolute; background:url(sizerAndVol.png); background-position: bottom !important; }
 
 #player .mainImage{ background:url(main.png); }
 
