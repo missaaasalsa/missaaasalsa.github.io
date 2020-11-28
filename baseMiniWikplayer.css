@@ -2,7 +2,6 @@
 #playerW{width:450px;right:50px !important;;left:auto !important;}
 #player #miniBaseCenter{width:300px; height:25px; left:30px;z-index:0; position:absolute; background:url(sizerAndVol.png); background-position: bottom !important; background-repeat: repeat-x !important;}
 
-#player,#player a{ color:#09116b; }
 #player .mainImage{ background:url(main.gif); }
 
 #player #baseLeft{ width:188px; }
@@ -12,7 +11,7 @@
 #player #play,#player #pause{ left:32px; }
 #player #previous{ left:8px; }
 #player #jp-title{ left:115px; width:110px;}
-#player #title{ left:115px;width:110px;cursor: help;white-space: nowrap; text-overflow: ellipsis;  overflow: hidden; }
+#player #title{ left:115px;width:110px;cursor: pointer;white-space: nowrap; text-overflow: ellipsis;  overflow: hidden; }
 #player #tooltip{ right:118px; }
 #player #timer{ right:142px;display:none;  }
 #player #list{ right:5px; }
