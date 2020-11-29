@@ -12,7 +12,7 @@
 #player #play{ background:url(playBtn.png); }
 #player #play,#player #pause{ left:32px; }
 #player #previous{ left:8px; }
-#player #jp-title{ left:115px; width:110px;}
+#player #jp-title{ left:115px; width:110px;color:#FFF; }
 #player #title{ left:115px;width:110px;white-space: nowrap; text-overflow: ellipsis;  overflow: hidden; }
 #player #tooltip{ right:118px; }
 #player #timer{ right:142px;display:none;  }
